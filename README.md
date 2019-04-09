@@ -1,1 +1,1 @@
-# delivermaga.gihub.io
+# delivermaga.github.io
